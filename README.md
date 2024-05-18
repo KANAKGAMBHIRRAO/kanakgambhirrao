@@ -3,9 +3,9 @@
 
 <h1 align="center">Hi 👋, I'm Kanak</h1>
 <h3 align="center">I have a deep passion for learning Web Development and constantly hone my skills in this dynamic field. As a Full Stack Web Developer, I am eager to collaborate on exciting Web Development projects. Let's create something amazing together!</h3>
-<img align="right" alt="Coding" width="400" margin="20px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" style="margin: 20px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kanakgambhirrao&label=Profile%20views&color=0e75b6&style=flat" alt="kanakgambhirrao" /> </p>
+<p align="left" > <img src="https://komarev.com/ghpvc/?username=kanakgambhirrao&label=Profile%20views&color=0e75b6&style=flat" alt="kanakgambhirrao" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanakgambhirrao" alt="kanakgambhirrao" /></a> </p>
 
