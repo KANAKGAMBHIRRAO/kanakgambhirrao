@@ -1,6 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif
-)](https://rishavchanda.io
-)
+
+<img align="right" alt="Coding" width="800" margin="20px" src="https://as2.ftcdn.net/v2/jpg/03/52/58/99/1000_F_352589922_wrQkznnjAYjCX0OOhryzYgzsWAOZboBN.jpg">
+
 <h1 align="center">Hi 👋, I'm Kanak</h1>
 <h3 align="center">I have a deep passion for learning Web Development and constantly hone my skills in this dynamic field. As a Full Stack Web Developer, I am eager to collaborate on exciting Web Development projects. Let's create something amazing together!</h3>
 <img align="right" alt="Coding" width="400" margin="20px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
